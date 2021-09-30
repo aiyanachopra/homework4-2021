@@ -84,7 +84,6 @@ tr:hover {
   padding: 10px;
   background-color: #7e0825;
   text-transform: uppercase;
-  text-align: center;
   vertical-align: middle;
   min-width: 125px;
 
@@ -121,12 +120,12 @@ tbody tr:last-child th:last-child{
   border-bottom-left-radius: 50px;
 }
 
-tbody tr:last-child th:last-child{
+tbody tr:last-child td:last-child{
   border-bottom-right-radius: 50px;
 }
 /* I gave you the selector, but not the property-value pair. 
 You can use Inspect Element or your editor to find selectors. */
-thead tr:first-child th:first-child{}
+
 
 /*Add selectors and rules here*/
 
